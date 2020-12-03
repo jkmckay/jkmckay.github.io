@@ -1,0 +1,59 @@
+
+[
+  {
+    "title": "Title 1",
+    "description": "Description 1",
+    "cost": 1,
+    "phase": "Movement",
+    "category": "Category 1",
+    "subfaction": "Szarekhan"
+  },
+  {
+    "title": "Title 2",
+    "description": "Description 2",
+    "cost": 2,
+    "phase": "Movement",
+    "category": "Category 2",
+    "subfaction": null
+  },
+  {
+    "title": "Title 3",
+    "description": "Description 3",
+    "cost": 3,
+    "phase": "Movement",
+    "category": "Category 3",
+    "subfaction": null
+  },
+  {
+    "title": "Title 4",
+    "description": "Description 4",
+    "cost": 1,
+    "phase": "Movement",
+    "category": "Category 4",
+    "subfaction": null
+  },
+  {
+    "title": "Title 5",
+    "description": "Description 5",
+    "cost": 2,
+    "phase": "Movement",
+    "category": "Category 5",
+    "subfaction": null
+  },
+  {
+    "title": "Title 6",
+    "description": "Description 6",
+    "cost": 3,
+    "phase": "Movement",
+    "category": "Category 6",
+    "subfaction": null
+  },
+  {
+    "title": "Title 7",
+    "description": "Description 7",
+    "cost": 1,
+    "phase": "Movement",
+    "category": "Category 7",
+    "subfaction": null
+  }
+]
