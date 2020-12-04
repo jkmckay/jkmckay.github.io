@@ -5,7 +5,7 @@
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
-    "category": "Category 1",
+    "category": "BattleTactic",
     "subfaction": "Szarekhan"
   },
   {
@@ -14,7 +14,7 @@
     "cost": 2,
     "phase": "Movement",
     "turn": "Opponent",
-    "category": "Category 2",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
@@ -23,7 +23,7 @@
     "cost": 3,
     "phase": "Movement",
     "turn": "Player",
-    "category": "Category 3",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
@@ -32,7 +32,7 @@
     "cost": 1,
     "phase": "Movement",
     "turn": "Opponent",
-    "category": "Category 4",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
@@ -41,7 +41,7 @@
     "cost": 2,
     "phase": "Movement",
     "turn": "Player",
-    "category": "Category 5",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
@@ -50,7 +50,7 @@
     "cost": 3,
     "phase": "Movement",
     "turn": "Opponent",
-    "category": "Category 6",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
@@ -59,7 +59,7 @@
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
-    "category": "Category 7",
+    "category": "BattleTactic",
     "subfaction": null
   }
 ]
