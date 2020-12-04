@@ -1,16 +1,18 @@
 [
   {
-    "title": "Title 1",
-    "description": "Description 1",
+    "title": "Dimensional Corridor",
+    "description": "Obeying recall protocols, this unit step into a temporary dimensional displacement tunnel and re-emerge from the eternity gate of a nearby Monolith.",
+    "rules": "Use this Stratagem at the start of your Movement phase. Select one <Dynasty> Core Infantry unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\" of a firendly <Dynasty> Monolith model and more than 9\" away from any enemy models.",
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
     "category": "BattleTactic",
-    "subfaction": "Szarekhan"
+    "subfaction": null
   },
   {
     "title": "Title 2",
     "description": "Description 2",
+    "rules": "rules",
     "cost": 2,
     "phase": "Movement",
     "turn": "Opponent",
@@ -20,6 +22,7 @@
   {
     "title": "Title 3",
     "description": "Description 3",
+    "rules": "rules",
     "cost": 3,
     "phase": "Movement",
     "turn": "Player",
@@ -29,6 +32,7 @@
   {
     "title": "Title 4",
     "description": "Description 4",
+    "rules": "rules",
     "cost": 1,
     "phase": "Movement",
     "turn": "Opponent",
@@ -38,6 +42,7 @@
   {
     "title": "Title 5",
     "description": "Description 5",
+    "rules": "rules",
     "cost": 2,
     "phase": "Movement",
     "turn": "Player",
@@ -47,6 +52,7 @@
   {
     "title": "Title 6",
     "description": "Description 6",
+    "rules": "rules",
     "cost": 3,
     "phase": "Movement",
     "turn": "Opponent",
@@ -56,6 +62,7 @@
   {
     "title": "Title 7",
     "description": "Description 7",
+    "rules": "rules",
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
