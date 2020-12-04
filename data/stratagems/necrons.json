@@ -2,7 +2,7 @@
   {
     "title": "Dimensional Corridor",
     "description": "Obeying recall protocols, this unit step into a temporary dimensional displacement tunnel and re-emerge from the eternity gate of a nearby Monolith.",
-    "rules": "Use this Stratagem at the start of your Movement phase. Select one <Dynasty> Core Infantry unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\" of a firendly <Dynasty> Monolith model and more than 9\" away from any enemy models.",
+    "rules": "Use this Stratagem at the start of your Movement phase. Select one <b><Dynasty> Core Infantry</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\" of a firendly <Dynasty> Monolith model and more than 9\" away from any enemy models.",
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
