@@ -63,7 +63,7 @@
   {
     "title": "ETERNAL PROTECTORS",
     "description": "Lychguard are the ultimate bodyguards; they never tire, never give a thought to their own safety over that of their master and fight all the harder as the danger to that master grows greater.",
-    "rules": "Use this Stratagem in the Fight phase. Select a <b>&lt;DYNASTY&gt; LYCHGUARD</b> unit from your army. Until the end of the phase, while that unit is within 3\\" of a friendly <b>&lt;DYNASTY&gt; NOBLE</b> model, add 1 to the Attack characteristic of each model in that unit.",
+    "rules": "Use this Stratagem in the Fight phase. Select a <b>&lt;DYNASTY&gt; LYCHGUARD</b> unit from your army. Until the end of the phase, while that unit is within 3\\\" of a friendly <b>&lt;DYNASTY&gt; NOBLE</b> model, add 1 to the Attack characteristic of each model in that unit.",
     "cost": 1,
     "phase": "Fight",
     "turn": "Player",
