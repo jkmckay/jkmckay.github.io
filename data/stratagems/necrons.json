@@ -1,8 +1,9 @@
+
 [
   {
-    "title": "Dimensional Corridor",
+    "title": "DIMENSIONAL CORRIDOR",
     "description": "Obeying recall protocols, this unit step into a temporary dimensional displacement tunnel and re-emerge from the eternity gate of a nearby Monolith.",
-    "rules": "Use this Stratagem at the start of your Movement phase. Select one <b>&lt;Dynasty&gt; Core Infantry</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\" of a firendly <Dynasty> Monolith model and more than 9\" away from any enemy models.",
+    "rules": "Use this Stratagem at the start of your Movement phase. Select one <b>&lt;Dynasty&gt; Core Infantry</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\\\" of a firendly <Dynasty> Monolith model and more than 9\\\" away from any enemy models.",
     "cost": 1,
     "phase": "Movement",
     "turn": "Player",
@@ -10,63 +11,65 @@
     "subfaction": null
   },
   {
-    "title": "Title 2",
-    "description": "Description 2",
-    "rules": "rules",
+    "title": "TECHNO-ORACULAR TARGETING",
+    "description": "Guided by the painstaking predictions of a conclave of astromancers, this shot strikes inescapably true.",
+    "rules": "Use this Stratagem in your Shooting phase, before making the wound roll for an attack made by a <b>Necrons</b> model from your army. Do not make a wound roll for that attack: it automatically wounds the target.",
+    "cost": 1,
+    "phase": "Shooting",
+    "turn": "Player",
+    "category": "BattleTactic",
+    "subfaction": null
+  },
+  {
+    "title": "EXTERMINATION PROTOCOLS",
+    "description": "Lokhust Destroyers have sacrificed every last ember of their souls in order to pursue the eradication of all mortal life.",
+    "rules": "Use this Stratagem in your Shooting phase, when a <b>LOKHUST DESTROYERS</B> or <B>LOKHUST HEAVY DESTROYERS</b> unit from your amy is selected to shoot. Until the end of the phase, each time a model in that unit makes an attack, you can re-roll the wound roll.",
     "cost": 2,
-    "phase": "Movement",
-    "turn": "Opponent",
-    "category": "BattleTactic",
-    "subfaction": null
-  },
-  {
-    "title": "Title 3",
-    "description": "Description 3",
-    "rules": "rules",
-    "cost": 3,
-    "phase": "Movement",
+    "phase": "Shooting",
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
   },
   {
-    "title": "Title 4",
-    "description": "Description 4",
-    "rules": "rules",
-    "cost": 1,
-    "phase": "Movement",
-    "turn": "Opponent",
-    "category": "BattleTactic",
+    "title": "STORM OF FLENSING BLADES",
+    "description": "Drive into a grotesque frenzy by the hot gore sluicing through their innards, the Flayes Ones lay about themselves wildly with their vicious talons.",
+    "rules": "Use this Stratagem at the end of the Fight phase. Select one <b>FLAYED ONES</B> unit from your army within Engagement Range of any enemy units; that unit can fight agin.",
+    "cost": null,
+    "phase": null,
+    "turn": null,
+    "category": null,
     "subfaction": null
   },
   {
-    "title": "Title 5",
+    "title": "FRACTAL TARGETING",
     "description": "Description 5",
     "rules": "rules",
-    "cost": 2,
-    "phase": "Movement",
-    "turn": "Player",
-    "category": "BattleTactic",
+    "cost": null,
+    "phase": null,
+    "turn": null,
+    "category": null,
     "subfaction": null
   },
   {
-    "title": "Title 6",
+    "title": "JUDGEMENT OF THE TRIARCH",
     "description": "Description 6",
     "rules": "rules",
-    "cost": 3,
-    "phase": "Movement",
-    "turn": "Opponent",
-    "category": "BattleTactic",
+    "cost": null,
+    "phase": null,
+    "turn": null,
+    "category": null,
     "subfaction": null
   },
   {
-    "title": "Title 7",
+    "title": "ETERNAL PROTECTORS",
     "description": "Description 7",
     "rules": "rules",
-    "cost": 1,
-    "phase": "Movement",
-    "turn": "Player",
-    "category": "BattleTactic",
+    "cost": null,
+    "phase": null,
+    "turn": null,
+    "category": null,
     "subfaction": null
   }
 ]
+Necron Stratagems - necrons.json
+Displaying Necron Stratagems - necrons.json.
