@@ -43,7 +43,7 @@
   {
     "title": "FRACTAL TARGETING",
     "description": "Augmentative targeting routines have been pre-programmed into these Tomb Blades' strategic engagement protocols, holding the craft momentarily level as they lock on to their victims and unleash a withering barrage of fire.",
-    "rules": "Use this Stratagem in your shooting phase. Select one <b>TOMB BLADES</b> unit  from your army. Until the end of the phase:\n &bull; All Rapid Fire weapons that modesls in that unit are equipped with are treated as being Assault 2 weapons.\n&bull; Models in that unit do not suffer the penalty to hit rolls incurred for firing Assault weapons in the same turn that their unit has Advanced.",
+    "rules": "Use this Stratagem in your shooting phase. Select one <b>TOMB BLADES</b> unit  from your army. Until the end of the phase:\r\n &bull; All Rapid Fire weapons that modesls in that unit are equipped with are treated as being Assault 2 weapons.\r\n&bull; Models in that unit do not suffer the penalty to hit rolls incurred for firing Assault weapons in the same turn that their unit has Advanced.",
     "cost": 1,
     "phase": "Shooting",
     "turn": "Player",
