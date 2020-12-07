@@ -34,10 +34,10 @@
     "title": "STORM OF FLENSING BLADES",
     "description": "Drive into a grotesque frenzy by the hot gore sluicing through their innards, the Flayes Ones lay about themselves wildly with their vicious talons.",
     "rules": "Use this Stratagem at the end of the Fight phase. Select one <b>FLAYED ONES</B> unit from your army within Engagement Range of any enemy units; that unit can fight agin.",
-    "cost": null,
-    "phase": null,
-    "turn": null,
-    "category": null,
+    "cost": 2,
+    "phase": "Fight",
+    "turn": "Player",
+    "category": "BattleTactic",
     "subfaction": null
   },
   {
