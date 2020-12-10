@@ -51,7 +51,7 @@
     "subfaction": null
   },
   {
-    "title": "JUDGEMENT OF THE TRIARCH - Fix multi phase",
+    "title": "JUDGEMENT OF THE TRIARCH",
     "description": "Those who defy the will of the Final Triarch are subject to swift and merciless retribution.",
     "rules": "Use this Stratagem in your Shooting phase, when a <b>TRIARCH</b> unit is selected to shoot, or in the Fight phase, when a <b>TRIARCH</b> unit is selected to fight. Until the end of the phase, each time a model in that unit makes an attack, add 1 to that attack's hit roll.",
     "cost": 1,
