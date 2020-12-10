@@ -5,7 +5,7 @@
     "description": "Obeying recall protocols, this unit step into a temporary dimensional displacement tunnel and re-emerge from the eternity gate of a nearby Monolith.",
     "rules": "Use this Stratagem at the start of your Movement phase. Select one <b>&lt;Dynasty&gt; Core Infantry</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\\\" of a firendly <Dynasty> Monolith model and more than 9\\\" away from any enemy models.",
     "cost": 1,
-    "phase": ["Movement"],
+    "phases": ["Movement"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -15,7 +15,7 @@
     "description": "Guided by the painstaking predictions of a conclave of astromancers, this shot strikes inescapably true.",
     "rules": "Use this Stratagem in your Shooting phase, before making the wound roll for an attack made by a <b>Necrons</b> model from your army. Do not make a wound roll for that attack: it automatically wounds the target.",
     "cost": 1,
-    "phase": ["Shooting"],
+    "phases": ["Shooting"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -25,7 +25,7 @@
     "description": "Lokhust Destroyers have sacrificed every last ember of their souls in order to pursue the eradication of all mortal life.",
     "rules": "Use this Stratagem in your Shooting phase, when a <b>LOKHUST DESTROYERS</B> or <B>LOKHUST HEAVY DESTROYERS</b> unit from your amy is selected to shoot. Until the end of the phase, each time a model in that unit makes an attack, you can re-roll the wound roll.",
     "cost": 2,
-    "phase": ["Shooting"],
+    "phases": ["Shooting"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -35,7 +35,7 @@
     "description": "Driven into a grotesque frenzy by the hot gore sluicing through their innards, the Flayes Ones lay about themselves wildly with their vicious talons.",
     "rules": "Use this Stratagem at the end of the Fight phase. Select one <b>FLAYED ONES</B> unit from your army within Engagement Range of any enemy units; that unit can fight again.",
     "cost": 2,
-    "phase": ["Fight"],
+    "phases": ["Fight"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -45,7 +45,7 @@
     "description": "Augmentative targeting routines have been pre-programmed into these Tomb Blades' strategic engagement protocols, holding the craft momentarily level as they lock on to their victims and unleash a withering barrage of fire.",
     "rules": "Use this Stratagem in your shooting phase. Select one <b>TOMB BLADES</b> unit  from your army. Until the end of the phase:\r\n &bull; All Rapid Fire weapons that modesls in that unit are equipped with are treated as being Assault 2 weapons.\r\n&bull; Models in that unit do not suffer the penalty to hit rolls incurred for firing Assault weapons in the same turn that their unit has Advanced.",
     "cost": 1,
-    "phase": ["Shooting"],
+    "phases": ["Shooting"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -55,7 +55,7 @@
     "description": "Those who defy the will of the Final Triarch are subject to swift and merciless retribution.",
     "rules": "Use this Stratagem in your Shooting phase, when a <b>TRIARCH</b> unit is selected to shoot, or in the Fight phase, when a <b>TRIARCH</b> unit is selected to fight. Until the end of the phase, each time a model in that unit makes an attack, add 1 to that attack's hit roll.",
     "cost": 1,
-    "phase": ["Shooting, Fight"],
+    "phases": ["Shooting, Fight"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
@@ -65,7 +65,7 @@
     "description": "Lychguard are the ultimate bodyguards; they never tire, never give a thought to their own safety over that of their master and fight all the harder as the danger to that master grows greater.",
     "rules": "Use this Stratagem in the Fight phase. Select a <b>&lt;DYNASTY&gt; LYCHGUARD</b> unit from your army. Until the end of the phase, while that unit is within 3\\\" of a friendly <b>&lt;DYNASTY&gt; NOBLE</b> model, add 1 to the Attack characteristic of each model in that unit.",
     "cost": 1,
-    "phase": ["Fight"],
+    "phases": ["Fight"],
     "turn": "Player",
     "category": "BattleTactic",
     "subfaction": null
