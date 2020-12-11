@@ -6,7 +6,7 @@
     "rules": "Use this Stratagem at the start of your Movement phase. Select one <b>&lt;Dynasty&gt; Core Infantry</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of this phase, set that unit back up on the battlefield anywhere that is wholly within 3\\\" of a firendly <Dynasty> Monolith model and more than 9\\\" away from any enemy models.",
     "cost": [1],
     "phases": ["Movement"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -16,7 +16,7 @@
     "rules": "Use this Stratagem in your Shooting phase, before making the wound roll for an attack made by a <b>Necrons</b> model from your army. Do not make a wound roll for that attack: it automatically wounds the target.",
     "cost": [1],
     "phases": ["Shooting"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -26,7 +26,7 @@
     "rules": "Use this Stratagem in your Shooting phase, when a <b>LOKHUST DESTROYERS</B> or <B>LOKHUST HEAVY DESTROYERS</b> unit from your amy is selected to shoot. Until the end of the phase, each time a model in that unit makes an attack, you can re-roll the wound roll.",
     "cost": 2,
     "phases": ["Shooting"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -36,7 +36,7 @@
     "rules": "Use this Stratagem at the end of the Fight phase. Select one <b>FLAYED ONES</B> unit from your army within Engagement Range of any enemy units; that unit can fight again.",
     "cost": 2,
     "phases": ["Fight"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -46,7 +46,7 @@
     "rules": "Use this Stratagem in your shooting phase. Select one <b>TOMB BLADES</b> unit  from your army. Until the end of the phase:\r\n &bull; All Rapid Fire weapons that modesls in that unit are equipped with are treated as being Assault 2 weapons.\r\n&bull; Models in that unit do not suffer the penalty to hit rolls incurred for firing Assault weapons in the same turn that their unit has Advanced.",
     "cost": [1],
     "phases": ["Shooting"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -56,7 +56,7 @@
     "rules": "Use this Stratagem in your Shooting phase, when a <b>TRIARCH</b> unit is selected to shoot, or in the Fight phase, when a <b>TRIARCH</b> unit is selected to fight. Until the end of the phase, each time a model in that unit makes an attack, add 1 to that attack's hit roll.",
     "cost": [1],
     "phases": ["Shooting", "Fight"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -66,7 +66,7 @@
     "rules": "Use this Stratagem in the Fight phase. Select a <b>&lt;DYNASTY&gt; LYCHGUARD</b> unit from your army. Until the end of the phase, while that unit is within 3\\\" of a friendly <b>&lt;DYNASTY&gt; NOBLE</b> model, add 1 to the Attack characteristic of each model in that unit.",
     "cost": [1],
     "phases": ["Fight"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "BattleTactic",
     "subfaction": null
   },
@@ -76,7 +76,7 @@
     "rules": "Use this Stratagem in any phase, when a <b>NECRONS INFANTRY NOBLE</b> or <b>NECRONS INFANTRY CRYPTEK</b> model from your army is destroyed. You can choose to roll one D6 at the end of the phase instead of using any rules that are triggered when that model is destroyed (e.g. the Surrogate Hosts abilities). If you do, then on a 4+, set that model back up on the battlefield as close as possible to where they were destroyed and more than 1\\\" away from any enemy models, with D3 wounds remaining. This stratagem cannot be used to set the same model back up more than once per battle.",
     "cost": [1],
     "phases": ["Any"],
-    "turn":["Player, Opponent"],
+    "turns":["Player, Opponent"],
     "category": "EpicDeed",
     "subfaction": null
   },
@@ -86,7 +86,7 @@
     "rules": "Use this Stratagem in your Command phase. Select one <b>C'TAN SHARD</b> model from your army. Select one of the powers from the Powers of the C'tan (pg 68) that the model does not know. The selected power replaces one of the Powers of the C'tan that the model does know.",
     "cost": [1],
     "phases": ["Command"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "EpicDeed",
     "subfaction": null
   },
@@ -96,7 +96,7 @@
     "rules": "Use this Stratagem in your COmmand phase. Select one <b>TECHNOMANCER</b> model from your army. Until the end of the phase, that model can use its Rites of Reanimation ability one additional time.",
     "cost": [1],
     "phases": ["Command"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "EpicDeed",
     "subfaction": null
   },
@@ -106,7 +106,7 @@
     "rules": "Use this Stratagem at the end of your Movement phase, when a <b>C'TAN SHARD</b> model from your army has used a Power of the C'tan. Roll one D6; that model can immediately use ths corresponding power from the Powers of the C'tan (pg 68), even if it has already been used this turn. If that model has the <b>TITANIC</b> keyword, this Stratagem costs 2CP; otherwise it costs 1CP.",
     "cost": [2,1],
     "phases": ["Movement"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "EpicDeed",
     "subfaction": null
   },
@@ -116,7 +116,7 @@
     "rules": "Use this Stratagem in the Fight phase, when a <b>C'TAN SHARD</b> model from your army is selected to fight. Until the end of the phase, each time a melee attack is made by that model, invulnerable saving throws cannot be taken against that attack.",
     "cost": [2],
     "phases": ["Fight"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "EpicDeed",
     "subfaction": null
   },
@@ -126,7 +126,7 @@
     "rules": "Us this Stratagem before the battle, when you are mustering your army. If your army does not contain a model with the <b><PHAERON/b> keyword, select one <b>NECRON OVERLORD</b> model from your army (excluding named characters). That model gaines the <b>PHAERON</b> keyword, and in your Command phase it can use its My Will Be Done ability one additional time. You can only use this Stratagem once.",
     "cost": [2],
     "phases": ["BeforeTheBattle"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "Requisition",
     "subfaction": null
   },
@@ -136,7 +136,7 @@
     "rules": "Use this Stratagem before the battle, when you are mustering your army. if your <b>WARLORD</b> has the <b>NECRONS</b> keyword. Select one <b>NECRONS CHARACTER</b> model (excluding <b>C'TAN SHARD</b> models) in your army and give them one Rlic (this must be a Relic they can have). Each Relic in your army must be unique, and you cannot use this Stratagem to give a model two Relics. You can only use this Stratagem once, unless you are playing a Strike Force battle (in which case you can use this Stratagem twice), or an Onslaught battle (in which case you can use this Stratagem three times).",
     "cost": [1],
     "phases": ["BeforeTheBattle"],
-    "turn":["Player"],
+    "turns":["Player"],
     "category": "Requisition",
     "subfaction": null
   }
