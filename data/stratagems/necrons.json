@@ -93,7 +93,7 @@
   {
     "title": "THE DEATHLESS ARISE",
     "description": "Focusing all of its talents, this Technomancer drags rank upon rank of sundered Necron soldiery back to their feet.",
-    "rules": "Use this Stratagem in your COmmand phase. Select one <b>TECHNOMANCER</b> model from your army. Until the end of the phase, that model can use its Rites of Reanimation ability one additional time.",
+    "rules": "Use this Stratagem in your Command phase. Select one <b>TECHNOMANCER</b> model from your army. Until the end of the phase, that model can use its Rites of Reanimation ability one additional time.",
     "cost": [1],
     "phases": ["Command"],
     "turn":"Player",
@@ -134,6 +134,16 @@
     "title": "DYNASTIC HEIRLOOMS",
     "description": "Vast and sprawling are the treasure vaults of this legion's dynasty, and richly appointed are their noble leaders when in battle.",
     "rules": "Use this Stratagem before the battle, when you are mustering your army. if your <b>WARLORD</b> has the <b>NECRONS</b> keyword. Select one <b>NECRONS CHARACTER</b> model (excluding <b>C'TAN SHARD</b> models) in your army and give them one Rlic (this must be a Relic they can have). Each Relic in your army must be unique, and you cannot use this Stratagem to give a model two Relics. You can only use this Stratagem once, unless you are playing a Strike Force battle (in which case you can use this Stratagem twice), or an Onslaught battle (in which case you can use this Stratagem three times).",
+    "cost": [1],
+    "phases": ["BeforeTheBattle"],
+    "turn":"Player",
+    "category": "Requisition",
+    "subfaction": null
+  },
+  {
+    "title": "RAREFIED NOBILITY",
+    "description": "In a show of arrogant superiority, the Necrons' leader has brought the cream of their noble allies to war at their side.",
+    "rules": "Use this Stratagem before the battle, when you are mustering your army, if your <b>WARLORD</b>  has <b>NECRONS</b> keyword. Select one <b>NECRONS CHARACTER</b> model (excluding <b>C'TAN SHARD</b> models) in your army and determine one Warlord Trait for that model (this must be a Warlord Trait they van have); that model is only regarded as your <b>WARLORD</b> for the purposes of that Warlord Trait. Each Warlord Trait in your army must be unique (if randomly generated, re-roll duplicate results), and you cannot use this Stratagem to give a model two Warlord Traits. ",
     "cost": [1],
     "phases": ["BeforeTheBattle"],
     "turn":"Player",
