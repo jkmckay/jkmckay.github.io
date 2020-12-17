@@ -149,5 +149,25 @@
     "turn":"Player",
     "category": "Requisition",
     "subfaction": null
+  },
+  {
+    "title": "ENSLAVED PROTECTORS",
+    "description": "Should danger trheaten, Canoptek constructs are compelled by their programming to surge selflessly to their masters' aid.",
+    "rules": "Use this Stratagem in your opponent's Charge phase. Select one <b>CANOPTEK</b> unit from your army. Until the end of the phase, that unit is eligble to perform Heroic Interventions as if it was a <b>CHARACTER</b>",
+    "cost": [1],
+    "phases": ["Charge"],
+    "turn":"Opponent",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "STELLAR ALIGNMENT PROTOCOL",
+    "description": "Driven by Cryptek manipulation, a key Necron war engine activates backup systems in order to fulfil its crucial pre-aligned role in the wider battle plan.",
+    "rules": "Use this Stratagem in the Command phase. Select one <b>NECRONS VEHICLE</b> model from your army that has a Wounds characteristic of 10 or more. Until the start of your next Command phase, that model is considered to have its full wounds remaining for the purposes of determining what characteristics on its profile to use. If that model has the <b>TITANIC</b> keyword, this Stratagem costs 2CP; otherwise it costs 1CP.",
+    "cost": [2,1],
+    "phases": ["Command"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
   }
 ]
