@@ -195,7 +195,7 @@
     "rules": "Use this Stratagem in the Fight phase, when a <b>CANOPTEK SCARAB SWARMS</b> unit from your army is selected to fight. Select one model in that unit. After that unit has finished piling in, you can select one enemy unit within Engagement Range of that model and roll one D6: on a 2-5 that enemy unit suffers D3 mortal wounds; on a 6, that enemy suffers 3 mortal wounds. The <b>CANOPTEK SCARAB SWARM</b> model is then destroyed.",
     "cost": [1],
     "phases": ["Fight"],
-    "turn":"Player",
+    "turn":"Any",
     "category": "StrategicPloy",
     "subfaction": null
   }
@@ -207,6 +207,16 @@
     "cost": [1],
     "phases": ["Movement"],
     "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "SHADOWS OF DRAZAK",
+    "description": "These Flayed Ones have drawn the crawling shadows of their charnel realm through the veil with them. Now, they sink ever closer to the enemy, their red eyes glowing like eerie lanterns from amidst coiling curtains of ice-cold darkness.",
+    "rules": "Use this Stratagem in any phase, when a <b>FLAYED ONES</b> unit from your army is selected as the target of an attack. Until the end of the phase, each time an attack is made against that unit, subtract 1 from the attack's hit roll.",
+    "cost": [1],
+    "phases": ["Any"],
+    "turn":"Any",
     "category": "StrategicPloy",
     "subfaction": null
   }
