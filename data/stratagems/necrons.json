@@ -169,5 +169,45 @@
     "turn":"Player",
     "category": "StrategicPloy",
     "subfaction": null
+  },
+  {
+    "title": "REANIMATION PRIORITISATION",
+    "description": "Canoptek Reanimators can quickly re-prioiritise which warriors are in greatest need of their healing beams.",
+    "rules": "Use this Stratagem in your opponent's Shooting phase, when a <b>NECRONS</b> unit from your army is selected as the target of an attack. Select one <b>CANOPTEK REANIMATOR</b> model in your army that is within 6\\\" of and visible to the targeted unit. That model can use its Nanoscarab Reanimation Beam ability as if it was your Command phase, selecting the targeted unit to be healed by its reanimation beam (any unit that was already being healed by that model's reanimation beam is no longer considered to be healed by it).",
+    "cost": [2],
+    "phases": ["Shooting"],
+    "turn":"Opponent",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },{
+    "title": "BURROWING NIGHTMARES",
+    "description": "Writhing and hissing, these Ophydian Destroyers plunge back into the bedrock with slashing claw strokes and flickering dimensional displacements. The foe look on fearfully, knowing that the murderous  androids will not remain buried for long.",
+    "rules": "Use this Stratagem at the start of your Movement phase. Select one <b>OPHYDIAN DESTROYERS</b> unit from your army that is on the battlefield. Remove that unit from the battlefield. In the Reinforcements step of your next Movement phase, you can set that unit back up on the battlefield anywhere that is more than 9\\\" away from any enemy models. If the battle ends and that unit is not on the battlefield, it is destroyed.",
+    "cost": [1],
+    "phases": ["Movement"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "SELF-DESTRUCTION",
+    "description": "If enabled, the self-destruct protocols of Canoptek Scarabs cause them to explode in a hail of razor-sharp armour fragments.",
+    "rules": "Use this Stratagem in the Fight phase, when a <b>CANOPTEK SCARAB SWARMS</b> unit from your army is selected to fight. Select one model in that unit. After that unit has finished piling in, you can select one enemy unit within Engagement Range of that model and roll one D6: on a 2-5 that enemy unit suffers D3 mortal wounds; on a 6, that enemy suffers 3 mortal wounds. The <b>CANOPTEK SCARAB SWARM</b> model is then destroyed.",
+    "cost": [1],
+    "phases": ["Fight"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
+  }
+  ,
+  {
+    "title": "PRISMATIC DIMENSIONAL BREACH",
+    "description": "Engaging a secondary prismatic filter built into its invasion beam projector, the Necron construct splits the skin of realspace with multiple dimensional doorways from which the dynastic legions advance.",
+    "rules": "Use this Stratagem in the Reinforcements step of your Movement phase. Selecton one <b>&lt;DYNASTY&gt; CORE</b> unit from your army that is in Strategic Reserves, and then select on firendly <b>&lt;DYNASTY&gt; Night SCYTHE</b> or <b>&lt;DYNASTY&gt; MONOLITH</b>  model that is on the battlefield. Se that <b>CORE</b> unit up anywhere on the battlefield that is wholly within 3\\\" of that <b>NIGHT SCYTHE</b> or <b>MONOLITH</b> model and not within Engagement Range of any enemy units. This Stratagem cannot be used in the first battle round. ",
+    "cost": [1],
+    "phases": ["Movement"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
   }
 ]
