@@ -219,5 +219,45 @@
     "turn":"Any",
     "category": "StrategicPloy",
     "subfaction": null
+  },
+  {
+    "title": "AETHERIC INTERCEPTION",
+    "description": "With hunters' instincts honed over aeons, the Deathmarks pounce precisely at the moment their prey enter battle, gunning them down before they can even act.",
+    "rules": "Use this Stratagem in the Reinforcements step of your opponent's Movement phase, after an enemy unit has been set up on the battlefield. Selecton one <b>HYPERSPACE HUNTER</b> unit from your army that is either on the battlefield, in a hyperspace dimension or in Strategic Reserves.\r\n &bull; If that <b>HYPERSPACE HUNTER</b> unit is in a hyperspace dimension or in Strategic Reserves, set it up anywhere on the battlefield that is withing 18\\\" of that enemy unit and more than 9\\\" away from any enemy models.\r\n &bull; That <b>HYPERSPACE HUNTER</b> unit can, at the end of the phase, shoot as if it were your Shooting phase, but until the end of the phase it can only target the enemy unit that was just set up on the battlefield (and only if that enemy unit is an eligible target for that attack).",
+    "cost": [1],
+    "phases": ["Movement"],
+    "turn":"Opponent",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "RELENTLESS ONSLAUGHT",
+    "description": "The Necron soldiery stried forward, tracking their targets and unleashing volley after volley with mericless efficiency",
+    "rules": "Use this Stratagem in your Shooting phase, when a <b>CORE INFANTRY</b> unit from your army is selected to shoot. Until the end of the phase, each time a model in that unit makes an attack with a Rapid Fire weapon, an unmodified hit roll of 6 scores one additional hit.",
+    "cost": [1],
+    "phases": ["Shooting"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "CURSE OF THE PHAERON",
+    "description": "Necron nobles are jealously protective of their armoury - should foes destroy such a jewel of the dynastic hoard, they risk triggering vengeance protocols intended to demonstrate the Necrons' displeasure in an explosive fashion.",
+    "rules": "Use this Stratagem in any phase, when a <b>NECRONS VEHICLE</b> model from your army is destroyed. Do not roll to see if that model explodes: it does so automatically. If that model has the <b>TITANIC</b> keyword, this Stratagem costs 3CP; otherwise it costs 1CP.",
+    "cost": [3,1],
+    "phases": ["Any"],
+    "turn":"Any",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "ATAVISTIC INSTIGATION",
+    "description": "As the Doom Scythe screams overhead, its foes search for any cover lest they too be disintegrated in the ensuing onslaught.",
+    "rules": "Use this Stratagem in your Shooting phase, when a <b>DOOM SCYTHE</b> model from your army is selected to shoot. After you select the target unit for that model's heavy death ray, select on enemy unit within 3\\\" of that target (you can select the target itself if you wish); that enemy unit can either brace or duck for cover.\r\n &bull; If that unit braces, and it is not a <b>VEHICLE</b> or a <b>MONSTER</b> unit, it suffers D3 mortal wounds.\r\n &bull; If that unit ducks for cover, then until the end of the turn, subtract 1 from the Attacks characteristic of models in that unit, and that unit cannot fire Overwatch or Set to Defend (see the Warhammer 40,000 Core Book).",
+    "cost": [1],
+    "phases": ["Shooting"],
+    "turn":"Player",
+    "category": "StrategicPloy",
+    "subfaction": null
   }
 ]
