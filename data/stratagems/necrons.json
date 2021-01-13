@@ -259,5 +259,87 @@
     "turn":"Player",
     "category": "StrategicPloy",
     "subfaction": null
+  },
+  {
+    "title": "REVENGE OF THE DOOMSTALKER",
+    "description": "Shuld their masters be slain, vengeance sub-protocols within Canoptek Doomstalkers are triggered. The looming machines swing their guns to bear upon those who struck the killing blow.",
+    "rules": "Use this Stratagem in any phase, when a <b>&lt;DYNASTY&gt; CHARACTER</b>  unit from yourarmy is destroyed by an enemy unit. Select one friendly <b>CANOPTEK DOOMSTALKER</b> model from you army.\r\n&bull;At the end of the phase, that  <b>CANOPTEK DOOMSTALKER</b> model can shoot as if it were your Shooting phase, but it can only target that enemy unit (and only if that enemy unit is eligible for that attack).\r\n&bull;Until the end of the battle, each time that <b>CANOPTEK DOOMSTALKER</b> model makes an attack that targets that enemy unit, add 1 to that attack's hit roll.",
+    "cost": [2],
+    "phases": ["Any"],
+    "turn":"Any",
+    "category": "StrategicPloy",
+    "subfaction": null
+  },
+  {
+    "title": "DISRUPTION FIELDS",
+    "description": "The thrumming aura of negative energy known as a disruption field warps and dissolves both armour and flesh.",
+    "rules": "Use this Stratagem in the Fight phase, when a <b>NECONRS CORE</b> unit from your army is selected to fight. Until the end of the phase, add 1 to the Strength characteristic of models in that unit.",
+    "cost": [1],
+    "phases": ["Fight"],
+    "turn":"Any",
+    "category": "Wargear",
+    "subfaction": null
+  },
+  {
+    "title": "DISINTEGRATION CAPACITORS",
+    "description": "Molecular disintegration emitters activitate within these Necrons' weapons even as they open fire, flaying away additional layers of enemy armour in explosive eruptions of glowing dust.",
+    "rules": "Use this Stratagem in your Shooting phase, when a <b>NECRONS</b> unit from your army is selected to shoot. Until the end of the phase, each time a model in that unit makes an attack with a gauss weapon (pg 112), an unmodified hit roll of 6 automatically wounds the target.",
+    "cost": [1],
+    "phases": ["Shooting"],
+    "turn":"Player",
+    "category": "Wargear",
+    "subfaction": null
+  },
+  {
+    "title": "MALEVOLENT ARCING",
+    "description": "Leaping and coiling about its target with malicious pseudo-sentience, the living lightning of these tesla weapons coils outward like a slaver's whip to lash at yet more nearby victims.",
+    "rules": "Use this Stratagem in your Shooting phase, when a <b>NECRONS</b> model from you army targets an enemy unit with a tesla weapon (pg 112). After making that weapon's attacks, roll one D6 for each other unit within 6\\\" of that enemy unit: on a 4+, the unit being rolled for suffers 1 mortal wound.",
+    "cost": [1],
+    "phases": ["Shooting"],
+    "turn":"Player",
+    "category": "Wargear",
+    "subfaction": null
+  },
+  {
+    "title": "WHIRLING ONSLAUGHT",
+    "description": "Skorpekh Destroyers carom into battle with a spiralling gait that allows them to deflect enemy shots with their whirling blades.",
+    "rules": "Use this Stratagem in any phase, when a <b>SKORPEKH DESTROYERS</b> or <b>SKORPEKH LORD</b> unit from your army is selected as the target of an attack. Until the end of the phase, each time an attack is made against that unit, subtract 1 from that attack's wound roll.",
+    "cost": [1],
+    "phases": ["Any"],
+    "turn":"Any",
+    "category": "Wargear",
+    "subfaction": null
+  },
+  {
+    "title": "QUANTUM DEFLECTION",
+    "description": "Necron quantum shielding is a true marvel of techno-arcana, phasing into existence at the moment of impact and capable of adaptive remodulation to diffuse and deflect even the most powerful enemy attacks.",
+    "rules": "Use this Stratagem in any phase, when a <b>NECRONS QUANTUM SHIELDING</b> unit from your army is selected as the target of an attack. Until the end of the phase, models in that unit have a 4+ invulnerable save.",
+    "cost": [1],
+    "phases": ["Any"],
+    "turn":"Any",
+    "category": "Wargear",
+    "subfaction": null
+  },
+  {
+    "title": "SOALR PULSE",
+    "description": "Many Necron weapons contain pulsing orbs, within which is bound the awesome power of a solar flare.",
+    "rules": "Use this Stratagem in your Shooting phase. Select one enemy unit. Until the end of the phase, each time a model in a <b>NECRONS</b> unit from your army makes a ranged attack against that enemy unit, the target does not receive the benefits of cover against that attack.",
+    "cost": [1],
+    "phases": ["Shooting"],
+    "turn":"Player",
+    "category": "Wargear",
+    "subfaction": null
   }
+
 ]
+,
+  {
+    "title": "",
+    "description": "",
+    "rules": "",
+    "cost": [],
+    "phases": [""],
+    "turn":"",
+    "category": "",
+    "subfaction": null
+  }
