@@ -123,7 +123,7 @@
     "description": "The most accomplished leaders of the Raven Guard are masters of every strategic doctrine laid down by Corvus Corax.",
     "rules": "Use this Stratagem after nominating a RAVEN GUARD CHARACTER model that is not a named character to be your Warlord. You can generate one additional Warlord Trait for them; this must be from the Raven Guard Warlord Traits table. All of the Warlord Traits your army includes must be different (if randomly generated, re-roll duplicate results). You can only use this Stratagem once per battle.",
     "cost": [1],
-    "phases": ["OutOFPhase"],
+    "phases": ["OutOfPhase"],
     "turn": "Any",
     "category": "Requisition",
     "subfaction": null
