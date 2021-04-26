@@ -1,0 +1,97 @@
+
+[
+    {
+      "title": "IN MIDNIGHT CLAD",
+      "description": "Having fought countless campaigns of terror in complete darkness, the Night Lords know how to make an ally of the shadows.",
+      "rules": "Use this Stratagem in your opponent’s Shooting phase, when a <b>NIGHT LORDS INFANTRY</b> unit from your army is targeted by a shooting attack. Until the end of that phase, when resolving an attack against that unit, subtract 1 from the hit roll.",
+      "cost": [1],
+      "phases": ["Shooting"],
+      "turn":"Opponent",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "VOX SCREAM",
+      "description": "Hideous screams of an aggressive techno-virus infiltrate the communication systems of the target, temporarily rendering it incapable of command.",
+      "rules": "Use this Stratagem at the end of your Movement phase. Select one enemy unit within 18\\\" of any <b>NIGHT LORDS</b> units from your army. Until the start of your next Movement phase, enemy units cannot be affected by any of the selected unit’s aura abilities.",
+      "cost": [2],
+      "phases": ["Movement"],
+      "turn":"Player",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "PREY ON THE WEAK",
+      "description": "Striking at the will of their victims, the meek of mind are the quarry of the VIII Legion.",
+      "rules": "Use this Stratagem in your Shooting phase or the Fight phase, when a NIGHT LORDS unit from your army is chosen to shoot or fight with. Until the end of that phase, when resolving an attack made by a model in that unit against an enemy unit whose models have a lower Leadership characteristic than the attacking model, add 1 to the hit roll.",
+      "cost": [1],
+      "phases": ["Shooting","Fight"],
+      "turn":"Any",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "HIT AND RUN",
+      "description": "There is no honourable fight, only darting strikes, feigned retreats and all manner of dirty tactics to win the battle.",
+      "rules": "Use this Stratagem at the start of your Charge phase. Select one <b>NIGHT LORDS</b> unit from your army. That unit can charge even if it Fell Back this turn.",
+      "cost": [1],
+      "phases": ["Charge"],
+      "turn":"Player",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "WE HAVE COME FOR YOU",
+      "description": "When the Night Lords descend, there is no mercy.",
+      "rules": "Use this Stratagem at the start of your opponent’s Movement phase. Select one <b>NIGHT LORDS</b> unit from your army that is not a <b>VEHICLE</b>. Until the start of your next turn, enemy units within 1\\\" of that unit cannot Fall Back unless they have the <b>VEHICLE</b> or <b>TITANIC</b> keyword, or have a minimum Move characteristic.",
+      "cost": [1],
+      "phases": ["Movement"],
+      "turn":"Opponent",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "FROM THE NIGHT",
+      "description": "The sons of Nostramo strike from the dark.",
+      "rules": "Use this Stratagem at the start of your Charge phase. Select one <b>NIGHT LORDS INFANTRY</b> unit from your army that is entirely on or within a terrain feature. Until the end of the turn, when a charge roll is made for that unit, add 2 to the result, and when resolving an attack made with a melee weapon by a model in that unit, add 1 to the hit roll.",
+      "cost": [1],
+      "phases": ["Charge"],
+      "turn":"Player",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "RAPTOR STRIKE",
+      "description": "Raptor cults circle above their prey, then descend when their victims are otherwise afflicted.",
+      "rules": "Use this Stratagem in your Charge phase, before making a charge roll for a <b>NIGHT LORDS JUMP PACK</b> unit from your army that was set up on the battlefield as reinforcements this turn. Roll 3D6 for that charge roll instead of 2D6.",
+      "cost": [1],
+      "phases": ["Charge"],
+      "turn":"Player",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    },
+    {
+      "title": "FLAY THEM ALIVE",
+      "description": "Death does not always follow defeat.",
+      "rules": "Use this Stratagem in the Fight phase, when an enemy unit is destroyed as a result of an attack made by a <b>NIGHT LORDS</b> model from your army. Until the end of the turn, when a Morale test is taken for an enemy unit within 12\\\" of that <b>NIGHT LORDS</b> unit, your opponent must roll one additional D6 and you can choose one of those dice to be discarded.",
+      "cost": [1],
+      "phases": ["Fight"],
+      "turn":"Any",
+      "category": null,
+      "subfaction": "NIGHT LORDS"
+    }
+  ]
+  
+  
+  
+  ,
+  {
+    "title": "",
+    "description": "",
+    "rules": "",
+    "cost": [],
+    "phases": [""],
+    "turn":"",
+    "category": "",
+    "subfaction": null
+  }
