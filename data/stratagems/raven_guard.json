@@ -23,7 +23,7 @@
     "description": "By the time the enemy engages the Raven Guard, their rear lines are already in the talon-grip of the Chapter’s covert vanguard, choking them off from vital battlefield support.",
     "rules": "Use this Stratagem at the start of the first battle round, before the first turn begins, if your army includes any <b>RAVEN GUARD</b> <b>SCOUT</b> or <b>RAVEN GUARD</b> <b>PHOBOS</b> units. Until the end of that battle round, you can roll one D6 each time your opponent spends Command Points to use a Stratagem; on a 5+ your opponent must spend 1 additional Command Point, or else that Stratagem has no effect and cannot be used again this phase (the Command Points spent so far are lost). You can only use this Stratagem once per battle.",
     "cost": [2],
-    "phases": ["OutOfPhase"],
+    "phases": ["BeforeTheBattle"],
     "turn": "Any",
     "category": "StrategicPloy",
     "subfaction": null
