@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">[</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "b691926d-9b4e-4014-b975-60fa297421e1",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Honda",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Civic"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Red",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2019,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 130</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 19,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/honda_civic_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 17500</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "e55b38f9-c8f0-452f-8e1c-8e005ff706c1",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "BMW",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "X7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Coupe",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 240</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 25,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/bmw_x7_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 47000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "8a55a336-51d6-456b-abc8-e8f4f3431a30",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Hyundai",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Atos Prime"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Blue",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2010,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Hatchback",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 100</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Korea",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 25,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/hyundai_atos_prime_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 9000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "b64de437-0d66-4955-86a9-dd83da84cc25",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Volkswagen",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Touareg"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Grey",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2018,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 230</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 15,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/volkswagen_touareg_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 30000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "1562dd21-256f-4afe-b3be-8737f31836d3",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Jaguar",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "XE"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Red",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 200</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 12,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/jaguar_xe_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 55000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "2a67f01d-3daa-4786-a71c-d267aa1b23f1",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Nissan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Almera"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "White",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2017,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 75</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 18,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/nissan_almera_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 18750</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "f1c67eb5-f7ca-4977-bb29-c2ea7777d6fc",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Toyota",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Camry"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "White",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 203</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 19,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/toyota_camry_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 31000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "f1a4474e-0bd2-4ce8-bf74-ac9c9e38cad0",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Chevrolet",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Corvette"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Red",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Coupe",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 8,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 300</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "USA",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 19,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/chevrolet_corvette_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 106000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "7c7207ec-fac4-4582-b9fa-1d85fd48e81d",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Honda",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "CR-V"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 150</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 20,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/honda_crv_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 27500</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "44bfb1d7-ac1c-49a3-ba0a-c913ac6dfb0e",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Toyota",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Avensis"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2014,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 120</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 18,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/toyota_avensis_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 17000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "f1ba6fa0-881d-41b1-b0cb-6ed3eae9897d",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "BMW",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "X6"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 300</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 23,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/bmw_x6_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 75000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "712f1539-dc75-4e99-9ef0-1f55de69697e",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Nissan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Murano"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "White",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2012,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 155</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 15,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/nissan_murano_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 15000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "47af4d07-1b1a-4196-8a0f-c339b3f4a77b",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Hyundai",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Sonata"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Blue",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2018,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 178</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 25,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/hyundai_sonata_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 24000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "51591765-8da6-4a70-8cb1-3d1db54104c7",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Infiniti",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "QX80"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Gold",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 8,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 240</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Japan",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 21,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/infiniti_qx80_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 48000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "7ee4ed00-dff2-45bd-85f4-5f5c4002b93b",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Jaguar",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "XKR"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Red",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2018,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Coupe",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 270</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "India",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 24,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/jaguar_xkr_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 53000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "6eadeaa8-b15b-4a61-9b8b-11e9cc41bfd8",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Chevrolet",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Equinox"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 203</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 19,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/chevrolet_equinox_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 44300</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "2abe776c-1111-4c65-b2a1-5a1127df2073",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Volkswagen",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "Bora"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2016,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 4,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 159</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 15,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 15400</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "b48229c4-f635-4be9-9d7a-b59f5066f93b",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Lexus",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "LX"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Grey",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2015,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "SUV",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 210</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Korea",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 14,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/lexus_lx_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 21200</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "8c609c01-457a-4d25-9537-c4040968cc5d",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Audi",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "A5"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Blue",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2020,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 8,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 230</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Germany",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 17,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/audi_a5_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 41000</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"id": "8b4a8071-845c-4ee0-b329-af254c89423f",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"make": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"manufacturer": "Lexus",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"model": "RX 300"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"color": "Black",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"year": 2013,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"configuration": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"body": "Saloon",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"cylinders": 6,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"horsepower": 180</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"origin": "Korea",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"mpg": 19,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"image": "images/lexus_rx300_1.jpg",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"price": 24300</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p1"><span class="s1">]</span></p>
+</body>
+</html>
